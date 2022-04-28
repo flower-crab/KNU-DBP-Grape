@@ -16,7 +16,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
- 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -45,7 +44,8 @@
   },
   "devDependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.5",
+    "gh-pages": "^3.2.3",
     "react-refresh": "^0.13.0"
   },
-  "hompage": "https://ogyworld.github.io/KNU-DBP-Grape/"
+  "hompage": "http://OGYWORLD.github.io/KNU-DBP-Grape"
 }
