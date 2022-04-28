@@ -1,0 +1,11 @@
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #5A4968;
+  }
+
+ .sideMargin {
+    width: "187.5px";
+    height: "75px";
+    margin-left: "25%", 
+ }

@@ -5,4 +5,11 @@
 
 Front Framework: React
 Back Framework: Java Spring Boot
-DB: Maria DB 
+DB: Maria DB
+
+
+## backend
+Spring boot
+
+## frontend
+react
