@@ -1,0 +1,20 @@
+@import '~antd/dist/antd.css';
+
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #5A4968;
+  }
+
+ .sideMargin {
+    width: "187.5px";
+    height: "75px";
+    margin-left: "25%", 
+ }
+
+
+@font-face {
+    font-family: "HSSSaemaul";
+    font-weight: 50;
+    src: url("../fonts/LeferiBaseBold.ttf") format("truetype");
+  }
